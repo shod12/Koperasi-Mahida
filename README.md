@@ -1,2 +1,0 @@
-# Koperasi-Mahida
-Web penjualan
